@@ -1,3 +1,3 @@
 # ChatBot_Using_OpensourceModels
 
-![alt text](image.png)
+![screenshot](image.png)
