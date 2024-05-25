@@ -1,0 +1,7 @@
+llama-index
+langchain
+langchain_community
+python-dotenv
+streamlit
+pinecone
+streamlit-chat 
