@@ -73,7 +73,7 @@ with text_container:
         st.session_state.responses.append(response)
  
 
-## will check for 
+## will check for session state response and return in chat message  
 with response_container:
     if st.session_state["responses"]:
         for i in range(0,len(st.session_state["responses"])):
